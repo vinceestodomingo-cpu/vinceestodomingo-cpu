@@ -25,7 +25,7 @@ Most of the time you'll probably find me:
 
 ---
 
-## 🍟 Favorite Foods
+## 🍜 Favorite Foods
 
 <div align="center">
 
@@ -33,6 +33,12 @@ Most of the time you'll probably find me:
 🍟 **French Fries**
 🍕 **Hawaiian Pizza**
 🥦 **Vegetarian Pizza**
+🍣 **Sushi**
+🍙 **Kimbap**
+🔥 **Buldak**
+🍝 **Pasta**
+🥘 **Sisig**
+🍔 **Chicken Burgers**
 
 </div>
 
